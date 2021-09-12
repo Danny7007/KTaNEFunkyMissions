@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -548183353, guid: 45b809be76fd7a3468b6f517bced6f28, type: 3}
+  m_Name: LilWayne
+  m_EditorClassIdentifier: 
+  DisplayName: Lil Wayne Random Bomb
+  Description: Walmart
+  GeneratorSetting:
+    TimeLimit: 3600
+    NumStrikes: 5
+    TimeBeforeNeedyActivation: 90
+    FrontFaceOnly: 0
+    OptionalWidgetCount: 5
+    ComponentPools:
+    - Count: 2
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - ColoredButtons
+      - PrimeChecker
+      - pressTheShape
+      - ModuleRick
+    - Count: 5
+      AllowedSources: 1
+      ComponentTypes: 09000000
+      SpecialComponentType: 0
+      ModTypes:
+      - theCodeModule
+      - LetterKeys
+      - numpath
+      - sixteenCoins
+      - emoticonMathModule
+      - ladderLottery
+      - ledGrid
+      - mirror
+      - newline
+      - Backgrounds
+      - CaesarCipherModule
+      - flyswatting
+      - HigherOrLower
+      - jackOLantern
+      - Listening
+      - mcdNatures
+      - topsyTurvy
+    - Count: 4
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - leds
+      - subways
+      - symbolicPasswordModule
+      - OneDimensionalMaze
+      - booleanVennModule
+      - calendar
+      - GSDirectingButtons
+      - flashingArrowsModule
+      - FestivePianoKeys
+      - fruits
+      - lgndLEDMath
+      - PianoKeys
+      - BlindAlleyModule
+      - complicatedButtonsModule
+      - graphModule
+    - Count: 4
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - NamingConventions
+      - RedHerring
+      - ColourFlash
+      - navinums
+      - NextInLine
+      - NotKeypad
+      - redArrowsModule
+      - simonSimons
+      - GSEightyOne
+      - BooleanKeypad
+      - TheBulbModule
+      - TheClockModule
+      - colouredArrowsModule
+      - diffusion
+      - dimensionDisruption
+      - EncryptedDice
+    - Count: 4
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - hexOrbits
+      - xtrkeywords
+      - MssngvWls
+      - spongebobBirthdayIdentification
+      - qkTernaryConverter
+      - spwizAstrology
+      - TwennyWan
+      - colorAddition
+      - eightTilesPanic
+      - TheGamepadModule
+      - homophones
+    - Count: 6
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - murder
+      - numberCipher
+      - pawns
+      - pieModule
+      - scratchOff
+      - 64
+      - BinaryLeds
+      - cooking
+      - HexamazeModule
+      - pixelcipher
+      - ChessModule
+      - digitString
+    - Count: 6
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - digitalDials
+      - ksmBadugi
+      - buttonSequencesModule
+      - hunting
+      - FollowTheLeaderModule
+      - ModuleMaze
+      - SimonScreamsModule
+      - BrokenButtonsModule
+      - ColorfulMadness
+      - FriendshipModule
+    - Count: 5
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - MandMs
+      - touchTransmission
+      - alphaBits
+      - DIWindow
+      - footnotes
+      - FlagsModule
+      - labyrinth
+      - ladders
+      - MafiaModule
+      - mineseeker
+      - Playfair
+      - R4YRecoloredSwitches
+      - RubiksCubeModule
+      - Tangrams
+    - Count: 3
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - SimonShoutsModule
+      - Astrological
+      - gettinFunkyModule
+      - palindromes
+      - qSchlagDenBomb
+      - SimonSmiles
+      - X01
+      - deckOfManyThings
+      - DoublePitch
+      - theSpeaker
+      - EncryptedEquationsModule
+      - Mazery
+      - scavengerHunt
+    - Count: 3
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - macroMemory
+      - metamem
+    - Count: 4
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - countdown
+      - AquariumModule
+      - BattleshipModule
+    - Count: 1
+      AllowedSources: 1
+      ComponentTypes: 
+      SpecialComponentType: 0
+      ModTypes:
+      - smallCircle
+      - smallCircle
+      - smallCircle
+      - smallCircle
+      - smallCircle
+  PacingEventsEnabled: 1
