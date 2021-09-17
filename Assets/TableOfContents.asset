@@ -33,5 +33,10 @@ MonoBehaviour:
     - ntsACAB
     - obliteratron
     - weedfarm
-    - weedfarm2F
     - turion
+  - Title: Horribly Scuffed
+    MissionIDs:
+    - gridlock2
+    - quintessence
+    - weezurion
+    - weedfarm2F
