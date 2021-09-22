@@ -14,7 +14,7 @@ MonoBehaviour:
   DisplayName: Quintessence
   Description: 5th time's a charm.
   GeneratorSetting:
-    TimeLimit: 1555
+    TimeLimit: 1915
     NumStrikes: 5
     TimeBeforeNeedyActivation: 5
     FrontFaceOnly: 0

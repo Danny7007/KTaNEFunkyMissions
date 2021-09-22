@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Name: feedTheWorld
   m_EditorClassIdentifier: 
   DisplayName: FEEDTHEWORLDDOTHEYKNOWITSCHRISTMAS
-  Description: "Strap on your Christmas Shoes and get ready to cuck, suck, and fuck
-    your way through this truly bananas bomb!\r\n\r\n[Colored Hexabuttons 2] 0,0,0,0,0,1,0,0,0,0"
+  Description: 'Strap on your Christmas Shoes and get ready to cuck, suck, and fuck
+    your way through this truly zany bomb!
+
+
+    [Colored Hexabuttons 2] 0,0,0,0,0,1,0,0,0,0'
   GeneratorSetting:
     TimeLimit: 18000
     NumStrikes: 12
@@ -281,7 +284,8 @@ MonoBehaviour:
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
-      - chilliBeans
+      - ultimateCycle
+      - ultimateCycle
     - Count: 1
       AllowedSources: 0
       ComponentTypes: 
