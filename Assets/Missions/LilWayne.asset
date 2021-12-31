@@ -21,7 +21,7 @@ MonoBehaviour:
     OptionalWidgetCount: 5
     ComponentPools:
     - Count: 2
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -30,7 +30,7 @@ MonoBehaviour:
       - pressTheShape
       - ModuleRick
     - Count: 5
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 09000000
       SpecialComponentType: 0
       ModTypes:
@@ -52,7 +52,7 @@ MonoBehaviour:
       - mcdNatures
       - topsyTurvy
     - Count: 4
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -72,7 +72,7 @@ MonoBehaviour:
       - complicatedButtonsModule
       - graphModule
     - Count: 4
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -93,7 +93,7 @@ MonoBehaviour:
       - dimensionDisruption
       - EncryptedDice
     - Count: 4
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -109,7 +109,7 @@ MonoBehaviour:
       - TheGamepadModule
       - homophones
     - Count: 6
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -126,7 +126,7 @@ MonoBehaviour:
       - ChessModule
       - digitString
     - Count: 6
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -141,7 +141,7 @@ MonoBehaviour:
       - ColorfulMadness
       - FriendshipModule
     - Count: 5
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -160,16 +160,14 @@ MonoBehaviour:
       - RubiksCubeModule
       - Tangrams
     - Count: 3
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
       - SimonShoutsModule
-      - Astrological
       - gettinFunkyModule
       - palindromes
       - qSchlagDenBomb
-      - SimonSmiles
       - X01
       - deckOfManyThings
       - DoublePitch
@@ -178,14 +176,14 @@ MonoBehaviour:
       - Mazery
       - scavengerHunt
     - Count: 3
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
       - macroMemory
       - metamem
     - Count: 4
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
@@ -193,7 +191,7 @@ MonoBehaviour:
       - AquariumModule
       - BattleshipModule
     - Count: 1
-      AllowedSources: 1
+      AllowedSources: 0
       ComponentTypes: 
       SpecialComponentType: 0
       ModTypes:
